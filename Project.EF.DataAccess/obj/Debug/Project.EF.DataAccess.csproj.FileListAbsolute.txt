@@ -1,0 +1,12 @@
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\obj\Debug\Project.EF.DataAccess.csproj.AssemblyReference.cache
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\obj\Debug\Project.EF.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\bin\Debug\Project.EF.DataAccess.dll.config
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\bin\Debug\Project.EF.DataAccess.dll
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\bin\Debug\Project.EF.DataAccess.pdb
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\obj\Debug\Project.EF.DataAccess.csproj.CopyComplete
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\obj\Debug\Project.EF.DataAccess.dll
+C:\Users\simitrio.guzman\source\repos\Project.EF.DataAccess\Project.EF.DataAccess\obj\Debug\Project.EF.DataAccess.pdb
